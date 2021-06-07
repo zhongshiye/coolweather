@@ -44,6 +44,6 @@ dependencies {
     //GSON用于解析JSON数据
     implementation 'com.google.code.gson:gson:2.8.2'
     //Glide用于加载和展示图片
-    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
 
 }
